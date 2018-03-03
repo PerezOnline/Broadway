@@ -2,3 +2,46 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+
+.header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  color: white;
+}
+
+h1 {
+font-size:70px;
+font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.tussenkopje {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
+
+.footer {
+background-color: dimgray;
+font-size: 11px;
+color: white;
+text-align: left;
+}
